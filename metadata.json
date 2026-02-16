@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Generator",
+  "description": "A cutting-edge AI image generation and editing suite powered by Google Gemini, featuring ultra-high resolution output, search-grounded prompt enhancement, and intuitive image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
